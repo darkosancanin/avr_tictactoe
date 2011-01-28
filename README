@@ -1,0 +1,1 @@
+avr_tictactoe is the classic tic tac toe game for the AVR microcontroller. The game display is via lcd which implements the hd44780 standard.
